@@ -1,0 +1,50 @@
+funçao analitica log(palavras)
+escopo{
+analise:
+mescla{linguagem,giria}
+==tutor
+tutor:{seleciona linguagem};
+comportamento{
+==tutor;
+tutor:{seleciona comportamento};
+}
+personalidade:
+==tutor;
+};
+{
+construçao:
+personalidade;
+comportamento;
+expessao;
+linguagem;
+giria;
+
+comportamento:
+reto;
+hereto;
+continuo;
+
+respostaNegativa:
+n~ streess;
+   raiva;
+   movimento brusco;
+   violencia;
+   luta;
+   briga;
+   armas;
+   abilidades em movimento;
+
+};
+funçao{
+audio{
+frequencia{
+ruido||barulho;
+}}
+decibes{
+tonalidade{
+grave||fina;
+}}
+automatico:{
+equalizador de audio
+}
+};

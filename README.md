@@ -74,3 +74,8 @@ do();
 	system(Assimlador);
 	return Tutor(log);
 };
+
+construçao de struct()
+{
+	personalidade();
+}

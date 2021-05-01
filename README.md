@@ -1,117 +1,76 @@
-# Similar-_
+#similar
 Assimila
 
 //©moises ferreira de lima
 //moisesfdl_pbt@hotmail.com.br
-#include <io.h>
+#include <iostream.h>
 #include <similar.h>
 #include <assert.h>
 #include <assimilar.h>
-#include "similar/"
+#include "similar";
 
-#define Assimlar:
+#define Assimlador:
+assimilador(cpu);
+cpu{ Assimlador(assimilar(Dialeto) & assimilar(Movimento) & assimilar(Gesto)) };
+cpu{ Assimlador(assilar(anota(log)analisa.log)seleciona.log) };
+log(Dialeto){ Dialeto(analisa(Dialeto) & seleciona(Dialeto)Dialeto == Tutor) };
+log(Movimento) { Movimento(analisa(dialeto) & seleciona(Movimento)Movimento == Tutor) };
+log(Gesto) { Gesto(analisa(Gesto) & seleciona(Gesto)Gesto == Tutor) };
+assimilar{ == humano(Tutor) };
+similar{ == humano(Tutor) };
+Assimlador{ Assimlar == similar };
 
-Assimilar{Base{Ver && Escrever(log) }};
-Similar(*(*Base)ptr)Similar);
-Base{ ColetaDados(log) };
-Assimlar{ Comportamento && Movimento && GiriaLinguagem && Dialeto };
-do(Similar);
+do();
 {
 	int main()
 	{
-		int Copia;
-		*(*Similar)ptr;
-		Copia{ Dialeto };
-		std::cout << "SimilarBinary" << Dialeto << ": " << std::endl;
-		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
+		int Nome();
+		*(*cpu)ptr;
+		cpu{ Assimlador };
+		std::cout << "cpu" << log() << ": " << std::endl;
+		if (true)
 		{
-			void Copia;
-			Analise(void);
-			int Similar;
-			Similar CMDOs;
-			int void Base;
-			Base(Box);
-			&Ref Assimilar;
+			int tutor;
+			cpu{ ("cmd-os") };
+			&Ref cpu;
 			*(*Binary)ptr;
-			std::string >> "NomeTuto" >> Nome >> std::endl;
-			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
-			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
-			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
-			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
-				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaDialeto : ?(s || !||~||n) || (Tutor : (s!!!CopiaDialeto) ? );
-			structur{ Analise(Base) & log"Dialeto" };
-			system("Assimilar");
-			return (similar"==");
+			Binary{ cpu(Assimlador) };
+			Vetor[1]{ +a };
+			Vetor{ cpu };
+			std::string >> auto{&auto(Ver)&auto(Andar) ? auto(tocar)};
+			std::cout << "\?PerguntaNomeTuto" << Nome << ": " << std::endl;
+			std::scanf >> +NomeSR:();
+			std::cout << "cpu" << auto{log(Dialeto)} << ": " << std::endl;
+			void(log);
+			std::cout << "cpu" << auto{log(Movimento)} << ": " << std::endl;
+			void(Moivimento);
+			std::cout << "cpu" << auto{log(Gesto)} << ": " << std::endl;
+			void(Gesto);
+			std::string >> auto{&auto(Ver)& auto(Andar) ? auto(tocar)};
+			system("cpu");
+			return (Assimlador);
 		},
-			system("Comportamento");
-		return Similar;
+			system(cpu);
+		return ==(tutor);
 	};
-		int main()
+	void()
 	{
-		int Copia;
-		*(*Similar)ptr;
-		Copia{ Movimento };
-		std::cout << "SimilarBinary" << Movimento << ": " << std::endl;
-		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
-		{
-			void Copia;
-			Analise(void);
-			int Similar;
-			Similar CMDOs;
-			int void Base;
-			Base(Box);
-			&Ref Assimilar;
-			*(*Binary)ptr;
-			std::string >> "NomeTuto" >> Nome >> std::endl;
-			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
-			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
-			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
-			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
-				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaMovimento : (s || !||~||n) || (Tutor : (s!!!CopiaMovimento) ? );
-			structur{ Analise(Base) & log"Movimento" };
-			system("Assimilar");
-			return (similar"==");
-		},
-			system("Comportamento");
-		return Similar;
+		std::cout << "log" << Dialeto << ": " << std::endl;
+		log{\log(&log)&Tutor(log)};
+		system(log);
 	};
-	int main()
+	void()
 	{
-		int Copia;
-		*(*Similar)ptr;
-		Copia{ Comportamento || Movimento || GiriaLinguagem || };
-		std::cout << "SimilarBinary" << Comportamento << ": " << std::endl;
-		std::cout << "SimilarBinary" << Assimalar << ": " << std::endl;
-		int main()
-		{
-			void Copia;
-			Analise(void);
-			int Similar;
-			Similar CMDOs;
-			int void Base;
-			Base(Box);
-			&Ref Assimilar;
-			*(*Binary)ptr;
-			std::string >> "NomeTuto" >> Nome >> std::endl;
-			std::cout << "BinarySimilar" << Assimilar << *ptr[1, GBit] << ": " << std::endl;
-			std::cout << "BinarySimilar: " >> Assimilar << Base(Copia) :log << std::endl;
-		Similar:h((*ptr)BaseCopia(? / !) * log);
-			std::cout << "BinarySimilar: " << Assimilar << Analise"Base"log << std::endl;
-			std::cout << "BinarySimilar: " << Assimilar(BaseCopia)log <<
-				Assimilar:Analise(User"Copia" || !/ User"%Copia") << std::endl;
-			std::cout << "BinarySimilar: " << ? / Tutor ? << CopiaComportamento : (s || !||~||n) || (Tutor : (s!!!CopiaComportamento) ? );
-			structur{ Analise(Base) & log"Comportamento" };
-			system("Assimilar");
-			return (similar"==");
-		},
-			system("Comportamento");
-		return Similar;
+		std::cout << "log" << Movimento << ": " << std::endl;
+		log{ \log(&log) & Tutor(log) };
+		system(log);
 	};
-
-}while("PAUSE");
+	void()
+	{
+		std::cout << "log" << Gesto << ": " << std::endl;
+		log{ \log(&log) & Tutor(log) };
+		system(log);
+	};
+	system(Assimlador);
+	return Tutor(log);
+};

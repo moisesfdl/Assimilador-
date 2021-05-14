@@ -35,7 +35,7 @@ do();
 			&Ref cpu;
 			*(*Binary)ptr;
 			Binary{ cpu(Assimlador) };
-			Vetor[1]{ +a };
+			Vetor[1]{  };
 			Vetor{ cpu };
 			std::string >> auto{&auto(Ver)&auto(Andar) ? auto(tocar)};
 			std::cout << "\?PerguntaNomeTuto" << Nome << ": " << std::endl;

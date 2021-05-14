@@ -29,7 +29,7 @@ do();
 		if (true)
 		{	
 			&Ref Tutor;
-			*(*)ptr
+			*(i5*)ptr
 			std::string >> auto{&auto(Ouvir)&auto(Falar) ? auto(Responder)};
 			std::cout << "Perguntar_o_Nome_do_Tuto" << Nome << ": " << std::endl;
 			std::scanf >> NomeSR:('moises'+=1);

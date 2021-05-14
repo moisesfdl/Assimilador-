@@ -3,79 +3,93 @@ Assimila
 
 //©moises ferreira de lima
 //moisesfdl_pbt@hotmail.com.br
-#include <iostream.h>
-#include <similar.h>
-#include <assert.h>
-#include <assimilar.h>
-#include "similar";
+#include <activation.h>
+#include <iomanip>
+#include <Audioclient.h>
+#include <computenetwork.h>
+#include "similar"
 
-#define Assimlador:
-assimilador(cpu);
-cpu{ Assimlador(assimilar(Dialeto) & assimilar(Movimento) & assimilar(Gesto)) };
-cpu{ Assimlador(assilar(anota(log)analisa.log)seleciona.log) };
-log(Dialeto){ Dialeto(analisa(Dialeto) & seleciona(Dialeto)Dialeto == Tutor) };
-log(Movimento) { Movimento(analisa(dialeto) & seleciona(Movimento)Movimento == Tutor) };
-log(Gesto) { Gesto(analisa(Gesto) & seleciona(Gesto)Gesto == Tutor) };
-assimilar{ == humano(Tutor) };
-similar{ == humano(Tutor) };
-Assimlador{ Assimlar == similar };
+#define Assimlar:
+#define CPU;
+#define Assimlador;
+Assimlar{CPU};
+CPU{Assimlador};
+similar{==server};
+
+class Assimilar()
+{
+	public:
+Assimlador{Assimilar(Audio"Ouvir")&Audio"Falar"};
+Audio==tonalidade("feminino");
+Assimlador{Assimlar(Analytc"log")};
+};
+class log{
+	BASE:LOG();
+	BASE{
+		LOG{BASE:LOG{}};
+	}
+}
 
 do();
 {
 	int main()
 	{
 		int Nome();
-		*(*cpu)ptr;
-		cpu{ Assimlador };
-		std::cout << "cpu" << log() << ": " << std::endl;
+		&Ref Similar;
+		*(*CPU)ptr;
+		CPU{ Assimlar };
+		std::cout << "CPU" << assimilar{"similar"} << ": " << std::endl;
 		if (true)
 		{
-			int tutor;
-			cpu{ ("cmd-os") };
-			&Ref cpu;
-			*(*Binary)ptr;
-			Binary{ cpu(Assimlador) };
+			int Tutor;
+			&Ref Tutor;
+			*(*BitLok)ptr;
 			Vetor[1]{  };
-			Vetor{ cpu };
-			std::string >> auto{&auto(Ver)&auto(Andar) ? auto(tocar)};
+			Vetor{ CPU };
+			std::string >> auto{&auto(Ouvir)&auto(Falar) ? auto(Responder)};
 			std::cout << "\?PerguntaNomeTuto" << Nome << ": " << std::endl;
 			std::scanf >> +NomeSR:();
-			std::cout << "cpu" << auto{log(Dialeto)} << ": " << std::endl;
+			std::cout << "CPU" << Ouvir(Dialeto) << ": " << std::endl; 
+			std::cout << "CPU" << auto{log(Dialeto)} << ": " << std::endl;
+			std::cout << "CPU" << auto{log(GiriaLinguagem)} << ": " << std::endl;
+			std::cout << "CPU Analitc" << auto{log(Responder?)} << ": " << std::endl;
 			void(log);
-			std::cout << "cpu" << auto{log(Movimento)} << ": " << std::endl;
-			void(Moivimento);
-			std::cout << "cpu" << auto{log(Gesto)} << ": " << std::endl;
-			void(Gesto);
-			std::string >> auto{&auto(Ver)& auto(Andar) ? auto(tocar)};
-			system("cpu");
+			std::string >> auto{&auto(Ouvir)& auto(Falar) ? auto(Responder)};
+			std::string >> log;
+			std::cout << "CPU Escrever[ " << log() << "] : " << std::endl;
+			log{Ouvir("Dialeto")}
+			std::cout << "CPU Analitc[ " << log() << "] : " << std::endl;
+			log{Analytc("GiriaLinguagem")}
+			std::cout << "CPU Responder" << auto(log"Analitc") << std::endl;
+			log{Responder(voz)};
+			std::string >> log; 
+			if (voz)
+			{
+				CPU{voz(Responder)};
+				CPU+=a;
+				system("audio");
+			};
+			system("CPU");
 			return (Assimlador);
 		},
-			system(cpu);
-		return ==(tutor);
+			system("Similar");
+		return Responder;
 	};
 	void()
 	{
-		std::cout << "log" << Dialeto << ": " << std::endl;
-		log{\log(&log)&Tutor(log)};
-		system(log);
+		std::cout << "log" << Ouvir << ": " << std::endl;
+		CPU{Escrever(log)};
+		log+=a;
+		system("log");
 	};
-	void()
-	{
-		std::cout << "log" << Movimento << ": " << std::endl;
-		log{ \log(&log) & Tutor(log) };
-		system(log);
-	};
-	void()
-	{
-		std::cout << "log" << Gesto << ": " << std::endl;
-		log{ \log(&log) & Tutor(log) };
-		system(log);
-	};
+	void(CPU)
+{
+	std::cout << "CPU" << Nome(CPU) << ": " << std::endl;
+	CPU{CPU==OBb(OBlocal)}
+	OBb'+=1';
+	system("Rename");
+};
+	
 	system(Assimlador);
 	return Tutor(log);
 };
-
-construçao de struct()
-{
-	personalidade();
-}

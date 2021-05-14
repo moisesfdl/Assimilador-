@@ -8,88 +8,64 @@ Assimila
 #include <Audioclient.h>
 #include <computenetwork.h>
 #include "similar"
+#include "class"
 
-#define Assimlar:
-#define CPU;
-#define Assimlador;
-Assimlar{CPU};
-CPU{Assimlador};
-similar{==server};
-
-class Assimilar()
-{
-	public:
-Assimlador{Assimilar(Audio"Ouvir")&Audio"Falar"};
-Audio==tonalidade("feminino");
-Assimlador{Assimlar(Analytc"log")};
-};
-class log{
-	BASE:LOG();
-	BASE{
-		LOG{BASE:LOG{}};
-	}
-}
+#define similar:
+similar{assimilar*/?{assimilador*/?{b0-b1||b1*b0=b0+b1}/?};
+similar{==CPU{Servidor(Tutor)}};
 
 do();
 {
 	int main()
-	{
+	{	
+		int void();
 		int Nome();
 		&Ref Similar;
 		*(*CPU)ptr;
 		CPU{ Assimlar };
-		std::cout << "CPU" << assimilar{"similar"} << ": " << std::endl;
+		Vetor[1]{  };
+		Vetor{ CPU };
+		std::cout << "CPU[" << similar * << "]: " << std::endl;
 		if (true)
-		{
-			int Tutor;
+		{	
 			&Ref Tutor;
-			*(*BitLok)ptr;
-			Vetor[1]{  };
-			Vetor{ CPU };
+			*(*)ptr
 			std::string >> auto{&auto(Ouvir)&auto(Falar) ? auto(Responder)};
-			std::cout << "\?PerguntaNomeTuto" << Nome << ": " << std::endl;
-			std::scanf >> +NomeSR:();
-			std::cout << "CPU" << Ouvir(Dialeto) << ": " << std::endl; 
+			std::cout << "Perguntar_o_Nome_do_Tuto" << Nome << ": " << std::endl;
+			std::scanf >> NomeSR:('moises'+=1);
+			std::cout << "CPU" << Ouvir(Dialeto) << ": " << std::endl;
+			CPU{Ouvir(Audio(voz)};
+			CPU{voz==Dialeto}; 
 			std::cout << "CPU" << auto{log(Dialeto)} << ": " << std::endl;
+			CPU{auto{Escreve(log)}};
 			std::cout << "CPU" << auto{log(GiriaLinguagem)} << ": " << std::endl;
-			std::cout << "CPU Analitc" << auto{log(Responder?)} << ": " << std::endl;
-			void(log);
+			CPU{auto{log{Analise(GiriaLinguagem)}}};
+			CPU{log{GiriaLinguagem==OrigemLinguagem}};
+			std::cout << "CPU Analise" << auto{log(Responder?)} << ": " << std::endl;
+			CPU{auto{log{Responder{log(analise*log*Responder)}}};
+			CPU{void()};
 			std::string >> auto{&auto(Ouvir)& auto(Falar) ? auto(Responder)};
 			std::string >> log;
 			std::cout << "CPU Escrever[ " << log() << "] : " << std::endl;
 			log{Ouvir("Dialeto")}
-			std::cout << "CPU Analitc[ " << log() << "] : " << std::endl;
-			log{Analytc("GiriaLinguagem")}
-			std::cout << "CPU Responder" << auto(log"Analitc") << std::endl;
+			std::cout << "CPU Analise[ " << log() << "] : " << std::endl;
+			log{Analise("GiriaLinguagem")}
+			std::cout << "CPU Responder" << auto(log"Analise") << std::endl;
 			log{Responder(voz)};
-			std::string >> log; 
+			std::string >> log;
+			std::string >> system("Audio"); 
 			if (voz)
 			{
 				CPU{voz(Responder)};
-				CPU+=a;
-				system("audio");
+				CPU+=1;
+				Audio('drive'++);
+				system("Audio");
 			};
+			std::SetSystem << std::sizeof(auto) << std::SetType[id] << id(Audio) << std::endl;
+			std::string >> system("Audio");
 			system("CPU");
 			return (Assimlador);
 		},
 			system("Similar");
 		return Responder;
-	};
-	void()
-	{
-		std::cout << "log" << Ouvir << ": " << std::endl;
-		CPU{Escrever(log)};
-		log+=a;
-		system("log");
-	};
-	void(CPU)
-{
-	std::cout << "CPU" << Nome(CPU) << ": " << std::endl;
-	CPU{CPU==OBb(OBlocal)}
-	OBb'+=1';
-	system("Rename");
-};
-	
-	system(Assimlador);
-	return Tutor(log);
 };

@@ -1,20 +1,25 @@
-#pragma once
 #include <io.h>
-#include <similar.h>
-#include <assert.h>
-#include <assimilar.h>
 #include "similar"
+#include <assert.h>
+#include "similar"
+#include "class"
 
 #define similar;
 _wfindfirst32i64(__cpp_conditional_explicit"assimilar");
 similar{assimilar*/?{assimilador*/?{b0-b1||b1*b0=b0+b1}/?};
-similar{ assimilar };
 
-class assimilador;
+class Assimilar()
+{
+private;
+Assimlador{Assimilar(Audio"Ouvir")&Audio"Falar"};
+Audio==tonalidade("feminino");
+Assimlador{Assimlar(Analytc"log")};
+};
+class similar;
 {
 private:
-	assimilar();
-	{similar}
+	similar::assimilar::assimilador;
+	similar{};
 	
 	?~(~!);
 
@@ -24,7 +29,31 @@ private:
 
 Class::similar()
 {
-	std::setauto << assimilar();
-	assimilador();
-	system(i:cpu);
+	std::sizeof(auto) >> assimilar{assimilador{}};
+	system(aid:cpu);
+	cpu*['a'ai'i'id];
+	cpu==CPU;
+};	
+void(log)
+{
+	std::cout << "log[ " << Ouvir << "] : " << std::endl;
+	std::scanf >> log(Ouvir);
+	std::cout << "Analise.log[ " << Ouvir << "] : " << std::endl;
+	std::scanf >> Analise{log(Ouvir)responder};
+	responder{analise(log)}
+
+	CPU{Escrever(log)};
+	log+=1;
+	system("log");
+};
+void(CPU)
+{
+	std::cout << "CPU" << Nome(CPU) << ": " << std::endl;
+	CPU{CPU==OB(OBlocal)}
+	OB'+=1';
+	system("Rename");
+};
+	
+	system(Assimlador);
+	return Tutor(log);
 };

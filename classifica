@@ -1,0 +1,30 @@
+#pragma once
+#include <io.h>
+#include <similar.h>
+#include <assert.h>
+#include <assimilar.h>
+#include "similar"
+
+#define similar;
+_wfindfirst32i64(__cpp_conditional_explicit"assimilar");
+similar{assimilar{assimilador{f+f}/?};
+similar{ assimilar };
+
+class assimilador;
+{
+private:
+	assimilar();
+	{similar}
+	
+	?~(~!);
+
+private:
+	__cpp_conditional_explicit{};
+};
+
+Class::similar()
+{
+	std::setauto << assimilar();
+	assimilador();
+	system(i:cpu);
+};

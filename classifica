@@ -1,38 +1,35 @@
 #include <io.h>
 #include "similar"
-#include <assert.h>
-#include "similar"
-#include "class"
+
 
 #define similar;
-_wfindfirst32i64(__cpp_conditional_explicit"assimilar");
-similar{assimilar*/?{assimilador*/?{b0-b1||b1*b0=b0+b1}/?};
+_wfindfirst32i64(__cpp_conditional_explicit"assimilar"),
+similar{assimilar{assimilador{1*1=OB}}};
 
-class Assimilar()
+class sin()
 {
-private;
+	AbortController{sin};
+	sin\+;
+	OB == ob;
+	OBb ==+ OB?;
+	OB == OBb?;
+	system("OB");
+}, 
+void Assimilar()
+{
+private:
 Assimlador{Assimilar(Audio"Ouvir")&Audio"Falar"};
 Audio==tonalidade("feminino");
 Assimlador{Assimlar(Analytc"log")};
-};
-class similar;
-{
-private:
-	similar::assimilar::assimilador;
-	similar{};
-	
-	?~(~!);
-
-private:
-	__cpp_conditional_explicit{};
-};
-
-Class::similar()
+system("assimilar");
+}
+static void similar()
 {
 	std::sizeof(auto) >> assimilar{assimilador{}};
 	system(aid:cpu);
 	cpu*['a'ai'i'id];
 	cpu==CPU;
+	CPU~!;
 };	
 void(log)
 {
@@ -48,12 +45,31 @@ void(log)
 };
 void(CPU)
 {
-	std::cout << "CPU" << Nome(CPU) << ": " << std::endl;
-	CPU{CPU==OB(OBlocal)}
+	std::cout << "CPU[" << Nome(CPU) << "]: " << std::endl;
+	CPU{CPU==OB('OB'local)}
 	OB'+=1';
 	system("Rename");
 };
-	
-	system(Assimlador);
-	return Tutor(log);
+void documentType{
+	CPF == ('275.551.158-32'||'27555115832'+=1);
+	CNPJ == ('35.669.326/0001-90'||'35669326000190'+=1);
+	CELULAR == ('5512-99649-7466'||'5512996497466'+=1);
+	HOTMAIL == ('moisesfdl_pbt@hotmail.com.br'+=1);
+	GMAIL == ('moisesprobabilidade@gmail.com'+=1);
+	TituloDeEleitor == ('239832530116'+=1);
+	CTPS == (Numero"77646"Serie"00150"+=1);
+	RG == ('27.950.938-8'||'279509388'+=1);
+	Nis == ('125.41632.83.7'+=1);
+};
+void(struct)
+{
+	std::string >> struct;
+	std::cout << "OuvirAudio [" << Audio << "] " << std::endl;
+	OuvirAudio(voz);
+	std::cout << "EscreverAudio [" << Escrever << "] " << std::endl;
+	EscreverAudio(voz);
+	std::cout << "EscreveBaseLog [" << BASE << "] "  << std::endl;
+	OuvirAudio{EscreverAudio{BASE(LOG(ANALISE(LOG)))}};
+	std::string >> struct;
+	system("struct");
 };

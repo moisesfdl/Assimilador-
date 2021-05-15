@@ -8,10 +8,9 @@ Assimila
 #include <Audioclient.h>
 #include <computenetwork.h>
 #include "similar"
-#include "class"
 
 #define similar:
-similar{assimilar*/?{assimilador*/?{b0-b1||b1*b0=b0+b1}/?};
+similar{assimilar{assimilador{i*i=OB}*\OB*}};
 similar{==CPU{Servidor(Tutor)}};
 
 do();
@@ -51,7 +50,7 @@ do();
 			std::cout << "CPU Analise[ " << log() << "] : " << std::endl;
 			log{Analise("GiriaLinguagem")}
 			std::cout << "CPU Responder" << auto(log"Analise") << std::endl;
-			log{Responder(voz)};
+			log{Responder(voz)local(!import)};
 			std::string >> log;
 			std::string >> system("Audio"); 
 			if (voz)

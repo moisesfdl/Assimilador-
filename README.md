@@ -10,7 +10,7 @@ Assimila
 #include "similar"
 
 #define similar:
-similar{assimilar{assimilador{i*i=OB}*\OB*}};
+similar{assimilar{assimilador{i*i=OB+a}*\OB+a*}};
 similar{==CPU{Servidor(Tutor)}};
 
 do();

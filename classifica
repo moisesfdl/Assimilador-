@@ -1,27 +1,12 @@
 #include <io.h>
 #include "similar"
+#include <assert.h>
 
 #define similar;
 _wfindfirst32i64(__cpp_conditional_explicit"assimilar"),
-similar{assimilar{assimilador{1*1=OB}}};
+similar{assimilar{assimilador{1*1=OBa}}};
 
-class sin()
-{
-	AbortController{sin};
-	sin\+;
-	OB == ob;
-	OBb ==+ OB?;
-	OB == OBb?;
-	system("OB");
-}, 
-void Assimilar()
-{
-private:
-Assimlador{Assimilar(Audio"Ouvir")&Audio"Falar"};
-Audio==tonalidade("feminino");
-Assimlador{Assimlar(Analytc"log")};
-system("assimilar");
-}
+
 static void similar()
 {
 	std::sizeof(auto) >> assimilar{assimilador{}};
@@ -32,42 +17,32 @@ static void similar()
 };	
 void(log)
 {
-	std::cout << "log[ " << Ouvir << "] : " << std::endl;
-	std::scanf >> log(Ouvir);
-	std::cout << "Analise.log[ " << Ouvir << "] : " << std::endl;
-	std::scanf >> Analise{log(Ouvir)responder};
-	responder{analise(log)}
-
+	std::cout << "log[ " << auto{Ouvir(som(voz))} << "] : " << std::endl;
+	std::scanf >> auto{log{Ouvir}};
+	std::cout << "Analise.log[ " << auto(Ouvir) << "] : " << std::endl;
+	std::scanf >> auto{Analise{log(Ouvir)responder}};
+	auto{Ouvir{Escrever{log{ANALISE{LOG{responder{!RESPONDER(this||GLOBAL)}}}}}}};
+	auto{sin{this{GLOBAL{indexDB{auto{struct{certificaçao(result"documentType")}}}}}}};
+	auto{responder{this{result{documentType}}}};
 	CPU{Escrever(log)};
 	log+=1;
 	system("log");
 };
 void(CPU)
 {
-	std::cout << "CPU[" << Nome(CPU) << "]: " << std::endl;
-	CPU{CPU==OB('OB'local)}
-	OB'+=1';
+	std::cout << "CPU [" << auto{Nome:'CPU'OBa} << "]: " << std::endl;
+	CPU{CPU==OBa('OBa'local)}
+	OBa+=1;
 	system("Rename");
-};
-void documentType{
-	CPF == ('275.551.158-32'||'27555115832'+=1);
-	CNPJ == ('35.669.326/0001-90'||'35669326000190'+=1);
-	CELULAR == ('5512-99649-7466'||'5512996497466'+=1);
-	HOTMAIL == ('moisesfdl_pbt@hotmail.com.br'+=1);
-	GMAIL == ('moisesprobabilidade@gmail.com'+=1);
-	TituloDeEleitor == ('239832530116'+=1);
-	CTPS == (Numero"77646"Serie"00150"+=1);
-	RG == ('27.950.938-8'||'279509388'+=1);
-	Nis == ('125.41632.83.7'+=1);
 };
 void(struct)
 {
 	std::string >> struct;
-	std::cout << "OuvirAudio [" << Audio << "] " << std::endl;
+	std::cout << "OuvirAudio [" << auto{Audio} << "] " << std::endl;
 	OuvirAudio(voz);
-	std::cout << "EscreverAudio [" << Escrever << "] " << std::endl;
+	std::cout << "EscreverAudio [" << auto{Escrever{}} << "] " << std::endl;
 	EscreverAudio(voz);
-	std::cout << "EscreveBaseLog [" << BASE << "] "  << std::endl;
+	std::cout << "EscreveBaseLog [" << auto{BASE{}} << "] "  << std::endl;
 	OuvirAudio{EscreverAudio{BASE(LOG(ANALISE(LOG)))}};
 	std::string >> struct;
 	system("struct");

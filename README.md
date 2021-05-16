@@ -10,7 +10,7 @@ Assimila
 #include "similar"
 
 #define similar:
-similar{assimilar{assimilador{i*i=OB}*\OB*}};
+similar{assimilar{assimilador{i*i=OBa}*\OBa*}};
 similar{==CPU{Servidor(Tutor)}};
 
 	int main()
@@ -22,7 +22,7 @@ similar{==CPU{Servidor(Tutor)}};
 		CPU{ Assimlar };
 		Vetor[1]{  };
 		Vetor{ CPU };
-		std::cout << "CPU[" << similar[OB] << "]: " << std::endl;
+		std::cout << "CPU[" << similar[OBa] << "]: " << std::endl;
 		if (true)
 		{	
 			&Ref Tutor;
@@ -52,9 +52,9 @@ similar{==CPU{Servidor(Tutor)}};
 			std::string >> system("Audio"); 
 			if (voz)
 			{
-				OB{OB==CPU(voz)};
+				OBa{OBa==CPU(voz)};
 				CPU{CPU(voz(loca(CPUResponder))};
-				OB==CPU+=1;
+				OBa==CPU+=1;
 				Audio{voz{voz==som(+100%)}};
 				Audio{Amplitude(Audio==100%)};
 				Audio{Canal(Fone?&Audiofone?)};

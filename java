@@ -22,7 +22,7 @@ public static void main(String[] args) {
 	IndexOutOfBoundsException:'info'
 		info:'base';
 	System.out.println('base');
-	ArrayIndexOutOfBoundsException:'ob\?',
+	ArrayIndexOutOfBoundsException:'oba\?',
 	comunication:'global',
 	global:'!comunication',
 	global:'!~!'

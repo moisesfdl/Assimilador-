@@ -1,0 +1,15 @@
+©moises ferreira de lima
+moisesfdl_pbt@hotmail.com.br
+module OB {
+	OB{
+		global:'\||/?',
+		OB:'BASE/LOCAL',
+		OB:'local',
+		location:'OB/local';
+		this:'\||/?',
+		OB:'BASE/LOCAL',
+		OB:'local',
+		location:'OB/local';
+		system('\')
+	}
+}

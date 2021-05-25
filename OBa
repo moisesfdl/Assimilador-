@@ -21,7 +21,7 @@ long main()
     };  
     for (OB i = 0; i > 0; i++)
     {
-    OBa{signbit(LONG64)?sizeof(void):OBJ_ENHMETAFILE(LOG)};
+    OBa{signbit(LONG64)?sizeof(void):OBaJ_ENHMETAFILE(LOG)};
     OBa '+=1';
     };
         std::cout << "CPU " << auto{void()} << " :" << std::endl;

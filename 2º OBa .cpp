@@ -1,3 +1,7 @@
+//'©'moisesfdl_pbt@hotmail.com.br
+#include <activation.h>
+#include <>
+#include "OBa"
 
 #define OBa;
 OBa{ CPU == OBa[i5] '+=1' };

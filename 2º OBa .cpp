@@ -3,33 +3,37 @@
 #include <>
 #include "OB+a"
 
-#define OBa;
-OB+a{ CPU == OB+a[i5] '+=1' };
+#define OB;
+OB+a{ CPU == OB[i5] '+=1' };
 
 
 long main()
 {
     &Ref moisesfdl;
     *(*CPU)ptr;
-    Vetor[i5]{ moisesfdl };
+    Vetor[i5]{ CPU };
     Vetor{ i5 };
-    OB+a{ auto("audio" + ouvir)auto("ouvir" + dialeto)auto("dialeto" + log),sizeof("log" + dialeto),sizeof("log" + analise),sizeof("log" + responder)};
     std::cout << "CPU [" << CPU('OBa') << "] : " << std::endl;
-    if (void)
+    OB+a( auto("audio" + ouvir)auto("ouvir" + dialeto)auto("dialeto" + log)!audio!responde.this);
+    OB+a(sizeof("log" + dialeto)sizeof("log" + analise)sizeof("log" + responder)!audio!responde.this);
+    if (void % 1 > 0)
     {
         *(*OB+a)ptr;
-        auto{OB+a("audio" + log())};
-        OB+a{log(audio)OB+a{analise{"log()"+responde}}};
-        auto{OB+a + "responder" + moisesfdl};
-        ptr{auto(void())};
+        OB+a(auto("audio" + log));
+        OB+a(log(audio)analise('log' +responde));
+        auto(OB+a + "responder" + moisesfdl);
+        ptr+=1(I/?);
+        System('OB+a= ' + void + 'audio');
     };  
-    for (OB+a i = 0; i > 0; i++)
+    for (OB+a i = 1; i >= 1; i++)
     {
-    OB+a{signbit(LONG64)?sizeof(void):OB+aJ_ENHMETAFILE(LOG)};
+    OB+a(long ? sizeof (void) : log ;i++);
+    OB+a(I int64_t % pow = 1T);
     OB+a '+=1';
     };
-        std::cout << "CPU " << auto{void()} << " :" << std::endl;
-    OB+a{ auto("audio" + ouvir)auto("ouvir" + dialeto)auto("dialeto" + log),sizeof("log" + dialeto),sizeof("log" + analise),sizeof("log" + responder)};
+    OB+a(auto("audio" + ouvir)auto("ouvir" + dialeto)auto("dialeto" + log)!audio!responde.this);
+    OB+a(sizeof("log" + dialeto)sizeof("log" + analise),sizeof("log" + responder)!audio!responde.this);
+    std::cout << "OB+a " << auto(resposta'void') << " :" << std::endl;
     system("CPU");
     return OB+a;
 };
